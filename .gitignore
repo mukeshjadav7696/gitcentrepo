@@ -1,0 +1,4 @@
+# Ignore the below files versioning
+*.java
+*.exe
+*.jgp
